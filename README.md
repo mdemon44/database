@@ -141,5 +141,3 @@ This project is open source and available under the [MIT License](https://openso
 
 ## ⭐ Support
 If you find this project useful, please consider giving it a **star ⭐** on GitHub — it motivates me to improve and share more projects!
-```
-
