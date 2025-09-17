@@ -1,6 +1,3 @@
-Absolutely, Penta! Here's your content formatted perfectly for a `README.md` file—ready to be posted on GitHub:
-
-```markdown
 # 🏦 Bank Management System (Python + MySQL)
 
 ## 📖 Project Overview
@@ -40,9 +37,6 @@ This separation ensures **data modularity**, making it easier to track customer 
 Install requirements:
 ```bash
 pip install mysql-connector-python
-```
-
----
 
 ## 📸 Preview
 ![Account Table](sq2.png)  
